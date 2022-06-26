@@ -1,2 +1,2 @@
 # pressing-passwords
-password generator devised from starter code
+password generator derived from starter code
