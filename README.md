@@ -1,9 +1,13 @@
 # pressing-passwords
 
 <h1> Screenshots ~ </h1>
+
 ![alt text](./Assets/images/prompt-1.png)
+
 ![alt text](./Assets/images/prompt-2.png)
+
 ![alt text](./Assets/images/prompt-3.png)
+
 ![alt text](./Assets/images/finalized!.png)
 
 <h1> Description </h1>
